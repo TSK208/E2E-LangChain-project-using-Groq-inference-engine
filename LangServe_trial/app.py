@@ -4,7 +4,9 @@ from langchain.chat_models import ChatOpenAI
 from langserve import add_routes
 import uvicorn
 import os
+from dotenv import load_dotenv
 
+load_dotenv(dotenv_path="../.env")
 os.environ['OPENAI_API_KEY']=os.getenv("OPENAI_API_KEY")
 
 app=FastAPI(
