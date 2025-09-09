@@ -10,3 +10,4 @@ sse_starlette
 pydantic
 streamlit
 sse_starlette
+bs4
