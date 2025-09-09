@@ -9,3 +9,4 @@ langchain-community
 sse_starlette
 pydantic
 streamlit
+sse_starlette
