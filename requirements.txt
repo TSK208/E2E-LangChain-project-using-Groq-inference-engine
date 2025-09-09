@@ -17,3 +17,7 @@ faiss-cpu
 arxiv
 wikipedia
 langchainhub
+groq
+cassio
+langchain-groq
+beautifulsoup4
