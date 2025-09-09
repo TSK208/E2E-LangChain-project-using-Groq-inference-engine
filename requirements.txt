@@ -8,3 +8,4 @@ uvicorn
 langchain-community
 sse_starlette
 pydantic
+streamlit
