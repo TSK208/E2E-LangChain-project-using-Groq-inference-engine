@@ -16,4 +16,3 @@ chromadb
 faiss-cpu
 arxiv
 wikipedia
-langchain_hub
