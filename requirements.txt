@@ -12,3 +12,4 @@ streamlit
 sse_starlette
 bs4
 pypdf
+chromadb
