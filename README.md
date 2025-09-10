@@ -30,7 +30,3 @@ To get a local copy up and running, follow these steps.
 ### Usage
 
 [Add instructions on how to use your application here]
-
-### License
-
-Distributed under the MIT License. See `LICENSE.md` for more information.
