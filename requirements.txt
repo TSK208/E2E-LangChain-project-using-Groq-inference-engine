@@ -21,3 +21,4 @@ groq
 cassio
 langchain-groq
 beautifulsoup4
+sentence-transformers
