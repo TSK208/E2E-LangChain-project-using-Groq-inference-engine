@@ -26,7 +26,3 @@ To get a local copy up and running, follow these steps.
     ```sh
     pip install -r requirements.txt
     ```
-
-### Usage
-
-[Add instructions on how to use your application here]
